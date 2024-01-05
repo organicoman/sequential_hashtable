@@ -32,7 +32,7 @@ In this library, I'm trying to adapt C++ Associative Containers: `std::unordered
 The library is based on **gcc** *stdlibc++* implementation code for C++17.
 
 ### Hashed_Stack
-`std::hased_stack` : **LIFO** data structure with guaranteed uniquness of its elements.
+`std::hashed_stack` : **LIFO** data structure with guaranteed uniquness of its elements.
 
 You can:
 * push
@@ -43,7 +43,7 @@ You can:
 * extract an element without disturbing the sequencing.
 
 ### Hashed_Queue
-`std::hased_queue` : **FIFO** data structure with guaranteed uniquness of its elements.
+`std::hashed_queue` : **FIFO** data structure with guaranteed uniquness of its elements.
 
 You can:
 * push
