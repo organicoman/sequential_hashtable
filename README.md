@@ -52,3 +52,9 @@ You can:
 * visit elements sequentialy (`std::queue` behavior)
 * iterate over element randomly (`std::unordered_set`, `std::unordered_map` behavior)
 * extract an element without disturbing the sequencing.
+
+### Mapped_Stack
+`std::mapped_stack` : Dictionary based counter part of `std::hashed_stack`.
+
+### Mapped_Queue
+`std::mapped_queue` : Dictionary based counter part of `std::hashed_queue`
